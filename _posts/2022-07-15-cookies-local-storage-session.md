@@ -6,7 +6,7 @@ date: 2022-07-15
 
 We all have used these browser storages at different points, but sometimes we tend to wonder which is best for what. Hence a small attempt to conclude the differences and similarities.
 
-<script src="https://gist.github.com/Huzaim/8ee6d00eb8582c93721e07958c00d2ed.js"></script>
+<script src="https://gist.github.com/Huzaim/34cab8ff9b2455914ba4bb6ae377ac7c.js"></script>
 
 Any of these mentioned storage mechanisms are browser independent. Chrome cannot access what's saved within Firefox.
 
